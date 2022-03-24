@@ -1,0 +1,33 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color black_200
+color black_500
+color teal_200
+color teal_700
+color white
+drawable _9223__1_
+drawable aswefe
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable user
+id bt_segunda_tela
+id btn1
+id btn2
+id constraintLayout
+id imageButton
+id imageButton2
+id imageView
+id imageView2
+id imageView3
+id textView2
+id ti_Password
+layout activity_login
+layout activity_main
+layout activity_second
+layout activity_third
+mipmap ic_launcher
+mipmap ic_launcher_round
+string Banco
+string app_name
+style Theme.CategoriaMine
